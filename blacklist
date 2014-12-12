@@ -1,0 +1,22 @@
+130.85.25.76	dnsbl.anticaptcha.net	AntiCaptcha.NET IPv4	http://anticaptcha.net/	ipv4
+130.85.25.76	old.spam.dnsbl.sorbs.net	SORBS Spamhost (last year)	http://www.sorbs.net/	ipv4
+130.85.25.76	problems.dnsbl.sorbs.net	SORBS Aggregate zone (problems)	http://www.sorbs.net/	ipv4
+130.85.25.76	spam.dnsbl.sorbs.net	SORBS Spamhost (any time)	http://www.sorbs.net/	ipv4
+130.85.25.77	access.redhawk.org	Redhawk.org	http://www.redhawk.org/	ipv4
+130.85.25.77	dnsbl.anticaptcha.net	AntiCaptcha.NET IPv4	http://anticaptcha.net/	ipv4
+130.85.25.77	old.spam.dnsbl.sorbs.net	SORBS Spamhost (last year)	http://www.sorbs.net/	ipv4
+130.85.25.77	problems.dnsbl.sorbs.net	SORBS Aggregate zone (problems)	http://www.sorbs.net/	ipv4
+130.85.25.77	spam.dnsbl.sorbs.net	SORBS Spamhost (any time)	http://www.sorbs.net/	ipv4
+130.85.25.78	dnsbl.anticaptcha.net	AntiCaptcha.NET IPv4	http://anticaptcha.net/	ipv4
+130.85.25.78	old.spam.dnsbl.sorbs.net	SORBS Spamhost (last year)	http://www.sorbs.net/	ipv4
+130.85.25.78	problems.dnsbl.sorbs.net	SORBS Aggregate zone (problems)	http://www.sorbs.net/	ipv4
+130.85.25.78	spam.dnsbl.sorbs.net	SORBS Spamhost (any time)	http://www.sorbs.net/	ipv4
+130.85.25.79	dnsbl.anticaptcha.net	AntiCaptcha.NET IPv4	http://anticaptcha.net/	ipv4
+130.85.25.79	spam.dnsbl.sorbs.net	SORBS Spamhost (any time)	http://www.sorbs.net/	ipv4
+130.85.25.80	dnsbl.anticaptcha.net	AntiCaptcha.NET IPv4	http://anticaptcha.net/	ipv4
+130.85.25.80	spam.dnsbl.sorbs.net	SORBS Spamhost (any time)	http://www.sorbs.net/	ipv4
+130.85.25.76	blackholes.scconsult.com	Solid Clues Blacklist	http://www.scconsult.com/blacklist.shtml	ipv4
+130.85.25.77	blackholes.scconsult.com	Solid Clues Blacklist	http://www.scconsult.com/blacklist.shtml	ipv4
+130.85.25.78	blackholes.scconsult.com	Solid Clues Blacklist	http://www.scconsult.com/blacklist.shtml	ipv4
+130.85.25.79	blackholes.scconsult.com	Solid Clues Blacklist	http://www.scconsult.com/blacklist.shtml	ipv4
+130.85.25.80	blackholes.scconsult.com	Solid Clues Blacklist	http://www.scconsult.com/blacklist.shtml	ipv4
